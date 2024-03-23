@@ -1,4 +1,4 @@
-# Machine Learning Projects Repository# Large Heading
+# Machine Learning Projects Repository #
 ## Welcome to the Machine Learning Projects Repository! This repository contains a collection of machine learning projects developed during my internship at CodSoft in the ML domain. Each project focuses on solving different real-world problems using various machine learning techniques and algorithms.
 
 Projects Overview:
