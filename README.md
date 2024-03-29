@@ -16,6 +16,9 @@ Techniques Used: Anomaly Detection, Imbalanced Data Handling, Feature Engineerin
 I left the codes in jupyter notebook in order to show insights such as confusion matrix, scatter plot of dataset.
 
 SMS_Spam_Detection.ipynb: Contains code and resources related to the SMS spam detection project.
+
 Movie_Genre_Recommendation.ipynb: Includes notebooks and data files for the movie genre recommendation project.
+
 Credit_Card_Fraud_Detection.ipynb: Contains scripts and datasets for the credit card fraud detection project.
+
 Documentation: Additional documentation, reports, and resources related to the projects, such as ReadMe file.
