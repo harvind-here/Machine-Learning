@@ -12,7 +12,7 @@ Techniques Used: Collaborative Filtering, Matrix Factorization, Content-Based Fi
 Objective: This project aims to develop a model capable of detecting fraudulent credit card transactions in real-time.
 Techniques Used: Anomaly Detection, Imbalanced Data Handling, Feature Engineering, Classification Algorithms (e.g., Random Forest, Support Vector Machine).
 
-Repository Structure:
+## Repository Structure:
 SMS_Spam_Detection: Contains code and resources related to the SMS spam detection project.
 Movie_Genre_Recommendation: Includes notebooks and data files for the movie genre recommendation project.
 Credit_Card_Fraud_Detection: Contains scripts and datasets for the credit card fraud detection project.
