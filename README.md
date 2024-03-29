@@ -1,7 +1,7 @@
 # Machine Learning Projects Repository #
 ## Welcome to the Machine Learning Projects Repository! This repository contains a collection of machine learning projects developed during my internship at CodSoft in the ML domain. Each project focuses on solving different real-world problems using various machine learning techniques and algorithms.
 
-Projects Overview:
+## Projects Overview:
 1. SMS Spam Detection:
 Objective: The objective of this project is to develop a model that can classify SMS messages as either spam or ham (non-spam).
 Techniques Used: Natural Language Processing (NLP), Text Preprocessing, Feature Engineering, Classification Algorithms (e.g., Naive Bayes, SVM).
