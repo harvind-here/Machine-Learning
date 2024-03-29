@@ -21,4 +21,4 @@ Movie_Genre_Recommendation.ipynb: Includes notebooks and data files for the movi
 
 Credit_Card_Fraud_Detection.ipynb: Contains scripts and datasets for the credit card fraud detection project.
 
-Documentation: Additional documentation, reports, and resources related to the projects, such as ReadMe file.
+Documentation: Additional documentation, reports, and resources related to the projects.
